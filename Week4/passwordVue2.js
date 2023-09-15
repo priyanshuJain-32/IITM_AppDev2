@@ -55,11 +55,7 @@ Vue.component('password-check', {
                 this.oneSpecial = false;
             }
         }
-    },
-    computed: {
-        
     }
-
 })
 const app = new Vue({
 	el: "#app"
